@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "StapuboxAssignment",
-    "slug": "StapuboxAssignment",
+    "name": "StapuBoxAssignment",
+    "slug": "StapuBoxAssignment",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash-icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -16,14 +16,20 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.stapubox.assignment",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/splash-icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a25a0661-995d-4f11-8f02-fe85ffff94e2"
+      }
     }
   }
 }
