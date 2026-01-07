@@ -4,11 +4,11 @@ This is my submission for the StapuBox Mini-Assignment. I have built a secure, m
 
 ## 📺 Project Demo
 
-
+*Demo Video*
 
 https://github.com/user-attachments/assets/a7ad5786-3413-4c83-8f08-d0bc43822a9c
 
-*Demo Video*
+
 
 - [Download Working APK](./builds/StapuBoxAssignment_v1.0.apk)
 
