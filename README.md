@@ -3,7 +3,9 @@
 This is my submission for the StapuBox Mini-Assignment. I have built a secure, modern mobile authentication flow using React Native and Expo. The app features a clean dark-themed UI and includes advanced features like automated OTP reading on Android.
 
 ## 📺 Project Demo
-- [Watch the Demo Video](./assets/demo.mp4)
+
+<video src="./assets/demo.mp4" width="320" height="640" controls align="center"></video>
+
 - [Download Working APK](./builds/StapuBoxAssignment_v1.0.apk)
 
 ## ✨ Key Features
