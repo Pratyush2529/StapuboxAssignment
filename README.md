@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/a7ad5786-3413-4c83-8f08-d0bc43822a9c
 
 ### 1. Installation
 ```bash
-git clone <repo-url>
+git clone https://github.com/Pratyush2529/StapuboxAssignment.git
 cd StapuboxAssignment
 npm install
 ```
