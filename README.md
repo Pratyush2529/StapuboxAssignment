@@ -8,8 +8,7 @@ This is my submission for the StapuBox Mini-Assignment. I have built a secure, m
 
 https://github.com/user-attachments/assets/a7ad5786-3413-4c83-8f08-d0bc43822a9c
 
-
-
+### 📥 Download Link
 - [Download Working APK](./builds/StapuBoxAssignment_v1.0.apk?raw=true)
 
 ## ✨ Key Features
